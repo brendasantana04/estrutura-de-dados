@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="algoritmos-ordenacao/src"/>
+	<classpathentry kind="src" path="bibliotecas-ordenacao/src"/>
+	<classpathentry kind="src" path="bubblesort/src"/>
+	<classpathentry kind="src" path="mergesort/src"/>
+	<classpathentry kind="lib" path="bibliotecas-ordenacao/bin/lib/Bubblesort.jar"/>
+	<classpathentry kind="lib" path="bibliotecas-ordenacao/bin/lib/Mergesort.jar"/>
+	<classpathentry kind="lib" path="Bubblesort.jar"/>
+	<classpathentry kind="lib" path="Mergesort.jar"/>
+	<classpathentry kind="output" path="algoritmos-ordenacao/bin"/>
+</classpath>
